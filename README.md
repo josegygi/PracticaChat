@@ -1,0 +1,1 @@
+Este es un chat de TCP entre un maximo de 5 clientes en el que se guarda el historial de cada uno de los clientes en ficheros, incluyendo tambien el historial completo del chat por media de processbuilders e hilos.
